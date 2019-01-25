@@ -109,7 +109,7 @@ world <- getTrends(woeid = 1)
 ######################################################################
 #####################################################################
 # Text analysis of Trump's tweets confirms he writes only the (angrier) Android half
-# http://varianceexplained.org/r/bb-tweets/
+# http://varianceexplained.org/r/trump-tweets/
 
 if(!require(purrr)){install.packages("purrr"); require(purrr)}
 if(!require(dplyr)){install.packages("dplyr"); require(dplyr)}
