@@ -1,4 +1,4 @@
-This is a text mining exercise on tweets using twitteR and tm packages. 
+This is a simple step-by-step text mining exercise on tweets using twitteR and tm packages. 
 
 This exercise is inspired by different tutorials, e.g.
 	- https://www.youtube.com/watch?v=QETCjkQ3CBw
