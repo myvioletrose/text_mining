@@ -1,0 +1,1 @@
+This is a text mining exercise of one open-end question. Data is collected from a survey and each respondent is already identified into one of four segments. The purpose of this exercise is to generate different word clouds, as well as to do a sentiment analysis comparing these four segments. 
